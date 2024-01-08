@@ -34,7 +34,7 @@ export default function SearchPage() {
 
   return (
     <div className="container">
-      <Box p={4} w={"full"} bg={"gray.200"} minH={100}>
+      <Box p={4} w={"full"} bg={"#eaeaea.200"} minH={100}>
         <Box maxW={"xl"}>
           <Card>
             <CardBody>
