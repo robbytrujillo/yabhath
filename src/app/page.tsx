@@ -32,7 +32,6 @@ export default function SearchPage() {
       });
   };
 
-
   return (
     <div className="container">
       <Box p={4} w={"full"} bg={"gray.200"} minH={100}>
@@ -68,10 +67,7 @@ export default function SearchPage() {
   );
 }
 
-
-
 // import Image from 'next/image'
-
 
 // export default function Home() {
 //   return (
@@ -81,8 +77,6 @@ export default function SearchPage() {
 //           Get started by editing&nbsp;
 //           <code className="font-mono font-bold">src/app/page.tsx</code>
 //         </p>
-
-        
 
 //         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
 //           <a
@@ -132,8 +126,6 @@ export default function SearchPage() {
 //             Find in-depth information about Next.js features and API.
 //           </p>
 //         </a>
-
-
 
 //         <a
 //           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
